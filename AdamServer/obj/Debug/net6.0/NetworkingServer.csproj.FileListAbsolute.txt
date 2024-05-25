@@ -1,0 +1,15 @@
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\bin\Debug\net6.0\NetworkingServer.exe
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\bin\Debug\net6.0\NetworkingServer.deps.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\bin\Debug\net6.0\NetworkingServer.runtimeconfig.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\bin\Debug\net6.0\NetworkingServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\bin\Debug\net6.0\NetworkingServer.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.csproj.AssemblyReference.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.AssemblyInfoInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.AssemblyInfo.cs
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.csproj.CoreCompileInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\refint\NetworkingServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\NetworkingServer.genruntimeconfig.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingServer\obj\Debug\net6.0\ref\NetworkingServer.dll
