@@ -1,0 +1,15 @@
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.csproj.AssemblyReference.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.AssemblyInfoInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.AssemblyInfo.cs
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.csproj.CoreCompileInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\bin\Debug\net6.0\NetworkingClient.exe
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\bin\Debug\net6.0\NetworkingClient.deps.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\bin\Debug\net6.0\NetworkingClient.runtimeconfig.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\bin\Debug\net6.0\NetworkingClient.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\bin\Debug\net6.0\NetworkingClient.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\refint\NetworkingClient.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\NetworkingClient.genruntimeconfig.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\NetworkingClient\obj\Debug\net6.0\ref\NetworkingClient.dll

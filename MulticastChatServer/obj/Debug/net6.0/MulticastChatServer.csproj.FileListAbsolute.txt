@@ -1,0 +1,15 @@
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\bin\Debug\net6.0\MulticastChatServer.exe
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\bin\Debug\net6.0\MulticastChatServer.deps.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\bin\Debug\net6.0\MulticastChatServer.runtimeconfig.json
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\bin\Debug\net6.0\MulticastChatServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\bin\Debug\net6.0\MulticastChatServer.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.csproj.AssemblyReference.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.AssemblyInfoInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.AssemblyInfo.cs
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.csproj.CoreCompileInputs.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\refint\MulticastChatServer.dll
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.pdb
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\MulticastChatServer.genruntimeconfig.cache
+C:\Users\adam.troberg\Desktop\LivNätverksLabb\MulticastChatServer\obj\Debug\net6.0\ref\MulticastChatServer.dll
