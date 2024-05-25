@@ -2,6 +2,7 @@
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
+using System.Text.RegularExpressions;
 
 class Adam_Klient
 {
@@ -38,8 +39,8 @@ class Adam_Klient
 
                 if (msgFromClient != null && !msgFromClient.Equals("bye", StringComparison.OrdinalIgnoreCase))
                 {
-                    string ansMsg = "Hello, " + msgFromClient;
-                    writer.WriteLine(ansMsg);
+                    string answer = Calculate(msgFromClient);
+                    writer.WriteLine(answer);
                 }
 
                 if (msgFromClient != null && msgFromClient.Equals("bye", StringComparison.OrdinalIgnoreCase))
@@ -60,4 +61,51 @@ class Adam_Klient
         }
     }
 
+    private static string Calculate(string message)
+    {
+        try
+        {
+            message = message.Replace(" ", ""); // Remove any whitespace
+            string pattern = @"(\d+)([+\-*/x])(\d+)";
+            Match match = Regex.Match(message, pattern);
+
+            if (match.Success)
+            {
+                int operand1 = int.Parse(match.Groups[1].Value);
+                string op = match.Groups[2].Value;
+                int operand2 = int.Parse(match.Groups[3].Value);
+
+                double result = 0;
+                switch (op)
+                {
+                    case "+":
+                        result = operand1 + operand2;
+                        break;
+                    case "-":
+                        result = operand1 - operand2;
+                        break;
+                    case "*":
+                        result = operand1 * operand2;
+                        break;
+                    case "/":
+                        result = (double)operand1 / operand2;
+                        break;
+                    case "x":
+                        result = operand1 * operand2;
+                        break;
+                    default:
+                        return "Fel operator";
+                }
+                return $"The answer is " + result;
+            }
+            else
+            {
+                return "Felaktigt uttryck (endast plus minus gånger delat)";
+            }
+        }
+        catch (Exception e)
+        {
+            return "Error: " + e.Message;
+        }
+    }
 }

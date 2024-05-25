@@ -27,10 +27,9 @@ class Adam_Klient
                 StreamWriter writer = new StreamWriter(stream) { AutoFlush = true };
                 StreamReader reader = new StreamReader(stream);
 
-                Console.WriteLine("Enter your name. Type Bye to exit.");
+                Console.WriteLine("Enter your math question. Type Bye to exit.");
                 string msg = Console.ReadLine().Trim();
-                string response = 
-                writer.WriteLine(response);
+                writer.WriteLine(msg);
 
                 Console.WriteLine("Message returned from the server: " + reader.ReadLine());
 
@@ -46,51 +45,5 @@ class Adam_Klient
                 Console.WriteLine("Exception: " + e);
             }
         }
-    }
-
-    // Beräkna talet
-    private static string CalculateMath(string message)
-    {
-        // Ta bort alla mellanslag
-        message = message.Remove(" ", ""); 
-        // OBS den här koden har jag kopierat för att ta ut operanden
-        string pattern = @"(\d+)([+\-*x/])(\d+)";
-
-        Match match = Regex.Match(message, pattern);
-
-            if (match.Success)
-            {
-                int operand1 = int.Parse(match.Groups[1].Value);
-                string op = match.Groups[2].Value;
-                int operand2 = int.Parse(match.Groups[3].Value);
-
-                double result = 0;
-                switch (op)
-                {
-                    case "+":
-                        result = operand1 + operand2;
-                        break;
-                    case "-":
-                        result = operand1 - operand2;
-                        break;
-                    case "*":
-                        result = operand1 * operand2;
-                        break;
-                    case "/":
-                        result = (double)operand1 / operand2;
-                        break;
-                }
-                return $"The answer of {msg} is " + result;
-            }
-            else
-            {
-                return "Invalid expression";
-            }
-        }
-        catch (Exception e)
-        {
-            return "Error: " + e.Message;
-        }
-    }
     }
 }
